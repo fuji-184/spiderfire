@@ -75,7 +75,7 @@ optional = true
 
 [dependencies.swc_core]
 #version = "0.90.6"
-version = "*"
+version = "52.0.0"
 features = [
 	"common",
 	"common_sourcemap",
